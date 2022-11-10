@@ -30,11 +30,11 @@ List The NY State Computer Science standards you will be covering in this unit. 
 
 ### Lessons
 Total lenght: 2 Weeks
-1. [starter lesson]
-2. [second day]
-3. [project]
-4. [project]
-5. [demos]
+1. [starter lesson](lessons/01_start)
+2. [second day](lessons/02_whatever)
+3. [project](lessons/03_multi_day)
+4. [project](lessons/03_multi_day)
+5. [demos](lessons/05_demos)
 
 ---
 
